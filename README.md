@@ -8,43 +8,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header><h1>DENGUE</h1>
+    <header><h1>OUTUBRO ROSA</h1>
     </header>
     
-
-       <p>A dengue é uma doença perigosa. Acompanhe a seguir algumas dicas para se prevenir!</p>
-
-        
-       <pre> 
-<I>     1. Elimine criadouros: Verifique regularmente sua casa e quintal para eliminar qualquer água parada onde os mosquitos possam depositar seus ovos. 
-    Isso inclui virar garrafas e recipientes ao contrário, manter piscinas e caixas d'água vedadas e limpar regularmente calhas e ralos.
-
-
-    2. Use repelente: Aplique repelente regularmente na pele exposta, especialmente ao amanhecer e ao entardecer,
-     quando os mosquitos estão mais ativos. Escolha repelentes aprovados por órgãos de saúde e siga sempre as instruções de uso.
-        
-
-    3. Vista roupas adequadas: Ao passar tempo ao ar livre, use roupas que cubram a maior parte do corpo, 
-    como calças compridas e camisas de manga longa. Isso reduzirá a exposição da pele aos mosquitos.
-
-
-    4. Proteja sua casa: Instale telas em janelas e portas para impedir a entrada de mosquitos dentro de casa.
-     Mantenha as telas em boas condições e feche as portas e janelas durante os períodos de maior atividade dos mosquitos.
-        
-
-    5. Monitore sua saúde: Esteja atento aos sintomas da dengue, como febre alta, dores no corpo, dor de cabeça e erupções cutâneas.
-     Se você ou alguém da sua família apresentar esses sintomas, procure imediatamente um serviço de saúde para diagnóstico e tratamento adequados.
-        </pre>
-
-    
-        </pre>
-
-      <aside>Ao seguir essas dicas de prevenção, você estará contribuindo para proteger a si mesmo, sua família e sua comunidade contra a dengue.
-
-        A prevenção é a chave para combater essa doença e garantir um ambiente saudável para todos</aside> </I>
+<p> Outubro Rosa é um mês dedicado à conscientização sobre o câncer de mama, simbolizando a luta e a união das mulheres em todo o mundo. 
+        A cor rosa representa empoderamento e solidariedade, iluminando edifícios e monumentos para espalhar a mensagem de prevenção e esperança.<p>
+        <p>Com origem na década de 1990, o movimento destaca a importância do autocuidado e da detecção precoce, como exames de mamografia e autoexame, essenciais na luta contra a doença.
+        Neste mês, eventos e campanhas promovem a união e o apoio, permitindo que mulheres compartilhem suas experiências e desafios.<p>
+        <p>Que Outubro Rosa nos inspire a nos informar, cuidar de nossa saúde e apoiar instituições que trabalham pela prevenção e tratamento do câncer de mama.
+          Mais do que uma campanha, é um movimento que celebra a vida e a força feminina, promovendo a esperança de dias melhores.<p>
 
         <class="heder">
-         <h1><img src="https://lauromuller.sc.gov.br/wp-content/uploads/2022/04/DENGUE-MATA-800x445.png"></h1>
+
+         <h1><img src:"https://www.gov.br/dnocs/pt-br/assuntos/noticias/dnocs-reforca-a-importancia-do-outubro-rosa/banner-site.jpg"></h1>
     
         </body>
         </html> 
